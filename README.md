@@ -5,14 +5,17 @@
 
 - 🎓  I'm a Computer Science Engineering student at Amrita Vishwa Vidyapeetam, who is fascinated by cyber security. I'm always interested in trying new things and seeing what sticks, so I've dabbled in a bit of everything from web development to penetration testing, still learning....
 
-- 👾 I'm always looking for new challenges and opportunities to learn, and I love meeting new people and making connections. If you're looking for someone who is passionate about cybersecurity, loves to learn new things, and is great at networking, then I'm your guy!
+- 👾 I'm always looking for new challenges and opportunities to learn, and I love meeting new people and making connections. If you're looking for someone who is passionate about cybersecurity, loves to learn new things and is great at networking, then I'm your guy!
 
 - 🌱 I’m currently learning **Red Teaming🎯,Web Development**
 
 - 📫 How to reach me **rohithvarmadatla12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="[https://linkedin.com/in/rohith varma datla](https://www.linkedin.com/in/rohith-varma-datla-0736b2281/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohith varma datla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohith-varma-datla-0736b2281/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohith varma datla" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
