@@ -25,6 +25,8 @@
 
 ---
 
+![](https://leetcard.jacoblin.cool/r0h17h?ext=heatmap)
+
 ### 🛠️ Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Python, C++
