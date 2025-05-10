@@ -26,6 +26,7 @@
 ---
 
 ![](https://leetcard.jacoblin.cool/r0h17h?ext=heatmap)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithvarma444&show_icons=true&theme=radical)
 
 ### 🛠️ Tech Stack
 
